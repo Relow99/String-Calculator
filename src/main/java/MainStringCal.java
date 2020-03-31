@@ -1,6 +1,6 @@
 public class MainStringCal {
     public static void main( String[] args) {
-      System.out.println(StringCalculator.add("//;\n1,2"));
+      System.out.println(StringCalculator.add("//;\n1;2"));
          }
 
 //    add("//;\n1;2")

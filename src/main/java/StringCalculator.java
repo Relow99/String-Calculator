@@ -17,8 +17,6 @@ public class StringCalculator {
             if (stringArr[i]!= "") {
                 results = results + Integer.parseInt(stringArr[i]);
             }
-
-
         }
         return results;
     }
